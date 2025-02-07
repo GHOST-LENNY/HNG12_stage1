@@ -66,6 +66,7 @@ Base URL (Deployed API Endpoint)
  **Endpoint:**
 
 - GET  /api/classify-number?number={number}
+  
 Returns essential details in JSON format.
 
 **Example Request Format:**
